@@ -3,7 +3,7 @@ this is sonic C pseudocode ranging from v1-3K,do whatever you want with them idc
 im not doing v4 or v3 or mania
 v1: not done
 v2: working on it
-3ko: penguin and player states
+3ko: penguin and player states, gonna restart 3ko from scratch
 
 
 
